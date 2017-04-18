@@ -1,5 +1,5 @@
 html {
-  background: url("https://cdn.shutterstock.com/shutterstock/videos/4852142/thumb/2.jpg") no-repeat center center fixed;
+  background: url("http://fromthetower.thig.com/wp-content/uploads/2012/07/social-media-icons.jpg") no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -8,7 +8,7 @@ html {
 
 
 h1 {
-  color: black;
+  color: white;
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
   font-size: 40px;
   line-height: 76px;
@@ -16,4 +16,9 @@ h1 {
   position: relative;
   text-align: center;
   top: 20%;
+}
+
+.content{
+  background-color: rgba(0, 0, 0, 0.7);
+  color: white;
 }

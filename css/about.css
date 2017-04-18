@@ -1,0 +1,122 @@
+
+img {
+  display: block;
+  margin: auto;
+  width: 30%;
+}
+
+
+
+
+
+ html {
+   background: url("https://static.pexels.com/photos/2324/skyline-buildings-new-york-skyscrapers.jpg") no-repeat center center fixed;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
+ }
+
+
+
+
+.navigation {
+    background-color: black;
+    overflow: hidden;
+}
+
+
+.navigation {
+    float: center;
+    display: block;
+    color: rgba(0, 0, 0, 0.7);
+    text-align: center;
+    padding: 20px 0 20px 0;
+    text-decoration: none;
+    font-size: 20px;
+    overflow: hidden;
+}
+
+
+.navigation {
+    background-color: rgba(0, 0, 0, 0.7);
+    color: black;
+
+}
+
+
+.navigation > a{
+    background-color: rgba(0, 0, 0, 0.7);;
+    color: white;
+    text-decoration: none;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.navigation > a:hover{
+    color:#c1c1c1;
+    text-decoration: underline;
+}
+
+
+.chatt{
+  display: inline-block;
+  margin: auto;
+  width: 30%
+}
+
+
+
+
+
+
+        h1 {
+
+          color: red;
+          font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Verdana, sans-seri;
+          font-size: 40px;
+          line-height: 76px;
+          margin: 0;
+          position: relative;
+          text-align: center;
+          top: 20%;
+        }
+
+h2{
+  color: white;
+  font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Verdana, sans-seri;
+  font-size: 30px;
+  line-height: 76px;
+  margin: 0;
+  position: relative;
+  text-align: center;
+  top: 20%;
+
+}
+
+
+
+
+      p {
+
+
+  color: white;
+  font-family: "Franklin Gothic Medium", "Franklin Gothic", "ITC Franklin Gothic", Arial, sans-serif;
+  font-size: 50px;
+  line-height: 76px;
+  margin: 0;
+  position: relative;
+  text-align: center;
+  top: 20%;
+
+      }
+      i {
+        font-size: 300%;
+      }
+
+
+
+      .content{
+        background-color: rgba(0, 0, 0, 0.7);
+        color: white;
+      }

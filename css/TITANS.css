@@ -1,0 +1,135 @@
+
+
+
+html {
+  background: url("http://wallpaper-gallery.net/images/tennessee-titans-wallpaper/tennessee-titans-wallpaper-4.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+header {
+  position: relative;
+  width: 100%;
+  min-height: 200px;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  background-position: center;
+  background-image: url("http://www.prosportsbackgrounds.com/assets/ten-city.png");
+  text-align: center;
+  color: white;
+}
+
+
+
+
+
+
+img {
+  display: block;
+  margin: auto;
+  width: 55%;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+
+}
+
+h1 {
+  color: red;
+  font-style: italic;
+  font-weight: bold;
+  font-family: "Calisto MT", "Bookman Old Style", Bookman, "Goudy Old Style", Garamond, "Hoefler Text", "Bitstream Charter", Georgia, serif;"Calisto MT", "Bookman Old Style", Bookman, "Goudy Old Style", Garamond, "Hoefler Text", "Bitstream Charter", Georgia, serif;
+  font-size: 60px;
+  line-height: 76px;
+  margin: 0;
+  position: relative;
+  text-align: center;
+  top: 20%;
+}
+
+h2 {
+  color: white;
+  font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 50px;
+  line-height: 76px;
+  margin: 0;
+  position: relative;
+  text-align: center;
+  top: 20%;p
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+
+h3 {
+  color: white;
+  font-style: italic;
+  font-weight: bold;
+  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+  font-size: 30px;
+  line-height: 76px;
+  margin: 0;
+  position: relative;
+  text-align: center;
+  top: 20%;
+}
+
+p {
+  color: red;
+  font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Verdana, sans-seri;
+  text-decoration: underline;
+  font-size: 40px;
+  line-height: 76px;
+  padding-top: 20px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 50px;
+
+}
+
+
+.content{
+  background-color: rgba(0,0,0,0.5);
+  color: white;
+}
+
+
+.navigation {
+    float: center;
+    display: block;
+    color: rgba(255, 0, 0, 0.7);
+    text-align: center;
+    padding: 20px 0 20px 0;
+    text-decoration: none;
+    font-size: 20px;
+    overflow: hidden;
+}
+
+
+.navigation {
+    background-color: rgba(255, 0, 0, 0.7);
+    color: black;
+
+}
+
+.navigation > a{
+    background-color: rgba(255, 0, 0, 0.7);;
+    color: white;
+    text-decoration: none;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.navigation > a:hover{
+    color:#c1c1c1;
+    text-decoration: underline;
+}
